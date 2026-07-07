@@ -1,2 +1,28 @@
-# 17bfac1f2dfddaae-accessibility-gamification-and
-The accessibility tool you'd build yourself — if you had the time.  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Accessibility Gamification And Rewards System — fully configured and ready to use - Pre-built databases with
+# Accessibility Gamification and Rewards System Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sYeVd12D2k4e008nGcZG2B)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sYeVd12D2k4e008nGcZG2B)
+
